@@ -1,6 +1,6 @@
 # merge-together
 
-this 
-is 
+that
+is
 some
 text
