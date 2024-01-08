@@ -1,6 +1,6 @@
 # merge-together
 
 that
-is
+was
 good
 text
